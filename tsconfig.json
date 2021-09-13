@@ -1,0 +1,14 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./packages/core/tsconfig.ref.json"
+    },
+    {
+      "path": "./packages/simple/tsconfig.ref.json"
+    },
+    {
+      "path": "./packages/nextjs/tsconfig.ref.json"
+    }
+  ]
+}

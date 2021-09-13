@@ -1,0 +1,10 @@
+{
+  "name": "@sangotaro/simple",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node dist/main.js"
+  },
+  "dependencies": {
+    "@sangotaro/core": "*"
+  }
+}
